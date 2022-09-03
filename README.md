@@ -4,10 +4,17 @@ In `source` folder you will find all the source code, textures and models, use a
 
 <p> <strong> v0.1.0  </strong> </p>
 
-Features:
+## Installation
+- Drag the contents of `starwars` folder to your Quake installation directory 
+- Press `~` in game and write: 
+  - `game starwars`
+  - then start a new game or load.
+- Done!
+
+## Features:
 - Lightsaber
 
-Planned Features:
+## Planned Features:
 - Enemy Reskin (Troopers)
 - Enemy Reskin (Droids)
 - Change Lightsaber Colors
