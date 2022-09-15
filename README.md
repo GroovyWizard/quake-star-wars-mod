@@ -1,6 +1,6 @@
 # quake-star-wars-mod
 Simple Star Wars mod for QUAKE 1.
-In `source` folder you will find all the source code, textures and models, use as you wish.
+In `source` folder you will find all the source code, textures (.png and .psd) and models(.blender and .mdl), use as you wish.
 
 <p> <strong> v0.2.0  </strong> </p>
 
