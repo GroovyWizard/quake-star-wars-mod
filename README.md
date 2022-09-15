@@ -2,7 +2,7 @@
 Simple Star Wars mod for QUAKE 1.
 In `source` folder you will find all the source code, textures and models, use as you wish.
 
-<p> <strong> v0.1.0  </strong> </p>
+<p> <strong> v0.2.0  </strong> </p>
 
 ## Installation
 - Drag the contents of `starwars` folder to your Quake installation directory 
@@ -13,6 +13,8 @@ In `source` folder you will find all the source code, textures and models, use a
 
 ## Features:
 - Lightsaber
+- Soldier Reskin to StormTrooper
+- Sound Fix for Lightsaber
 
 ## Planned Features:
 - Enemy Reskin (Troopers)
