@@ -23,4 +23,4 @@ In `source` folder you will find all the source code, textures (.png and .psd) a
 - Change Weapons
 
 
-![Print Screen](https://github.com/GroovyWizard/quake-star-wars-mod/blob/main/starwars/source/printscreen.png)
+![Print](https://github.com/GroovyWizard/quake-star-wars-mod/blob/main/source/printscreen.png)
