@@ -17,10 +17,10 @@ In `source` folder you will find all the source code, textures (.png and .psd) a
 - Sound Fix for Lightsaber
 
 ## Planned Features:
-- Enemy Reskin (Troopers)
-- Enemy Reskin (Droids)
-- Change Lightsaber Colors
-- Change Weapons
+- Enemy Reskin Zombies (Droids)
+- Enemy Reskin Darth Vader
+- Change Lightsaber Colors by Key Press
+- Change Weapon skins to some star wars weapons
 
 
 ![Print](https://github.com/GroovyWizard/quake-star-wars-mod/blob/main/source/printscreen.png)
